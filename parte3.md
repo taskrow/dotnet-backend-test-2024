@@ -15,12 +15,13 @@ Colunas de saída:
 
 ## 3.2 - Tipos de solicitações mais frequentes
 
-Recebendo os parâmetros ano e mês, liste os 5 tipos de solicitação mais frequentes, com o número de solicitações e o grupo solicitante que mais solicitou cada tipo.
+Recebendo os parâmetros ano e mês, liste os 5 tipos de solicitação mais frequentes, o total de solicitações deste tipo, o grupo que mais solicitou este tipo e o número de solicitações que este grupo fez deste tipo.
 
 Colunas de saída:
 - Tipo de solicitação
-- Número de solicitações
+- Total de solicitações
 - Grupo solicitante
+- Solicitações por este grupo
 
 ## 3.3 - Limites de solicitações
 
