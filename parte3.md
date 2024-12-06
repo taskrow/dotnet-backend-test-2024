@@ -4,7 +4,7 @@ A partir do banco de dados criado na parte 2, pediremos a seguir algumas queries
 
 ## 3.1 - Listagem de solicitações
 
-Lista de meses com o número de solicitações abertas, os 2 grupos que mais solicitaram (diretamente)
+Lista de meses com o número de solicitações abertas, os 2 grupos que mais solicitaram (diretamente) nos últimos 24 meses.
 
 Colunas de saída:
 - Ano
@@ -33,3 +33,9 @@ Colunas de saída:
 - Limite
 - Solicitações
 - Percentual consumido (0 a 100%)
+
+# IMPORTANTE
+
+As queries podem ser feitas com SQL, EF ou Linq2SQL. Mas lembre-se que além do conhecimento na construção de queries, será avaliada a performance e escalabilidade das mesmas.
+
+Se necessário, crie os índices que achar necessário para otimizar as queries.
